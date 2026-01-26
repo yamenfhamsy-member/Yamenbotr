@@ -1,0 +1,9 @@
+requests
+feedparser
+gTTS
+pyTelegramBotAPI
+beautifulsoup4
+moviepy
+SpeechRecognition
+pydub
+Flask
